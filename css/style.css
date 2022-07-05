@@ -7,6 +7,12 @@ html {
   scroll-behavior: smooth;
 }
 
+:root {
+  --main-blue-color: #003944; /* var(--main-blue-color) */
+  --main-yellow-color: #d5b783; /* var(--main-yellow-color) */
+  --secondary-yellow-color: #ffdb9d; /* var(--secondary-yellow-color) */
+}
+
 *,
 *::before,
 *::after {
@@ -30,6 +36,18 @@ p {
   padding: 0;
 }
 
+h1 {
+  font-size: 1.96rem;
+}
+
+h2 {
+  font-size: 1.6475rem;
+}
+
+h3 {
+  font-size: 1.335rem;
+}
+
 h1,
 h3 {
   text-transform: uppercase;
@@ -51,18 +69,18 @@ footer {
 }
 
 footer a {
-  color: #ffdb9d;
+  color: var(--secondary-yellow-color);
 }
 
 .container-1,
 footer {
-  background-color: #003944;
-  color: #d5b783;
+  background-color: var(--main-blue-color);
+  color: var(--main-yellow-color);
 }
 
 .container-2 {
-  background-color: #d5b783;
-  color: #003944;
+  background-color: var(--main-yellow-color);
+  color: var(--main-blue-color);
 }
 
 .box,
@@ -95,19 +113,26 @@ button:hover {
 }
 
 #begin-reading-button {
-  background-color: #d5b783;
-  border-color: #003944;
-  color: #003944;
+  background-color: var(--main-yellow-color);
+  border-color: var(--main-blue-color);
+  color: var(--main-blue-color);
 }
 
 #select-a-card-button,
 #select-another-card-button {
-  background-color: #003944;
-  border-color: #d5b783;
-  color: #d5b783;
+  background-color: var(--main-blue-color);
+  border-color: var(--main-yellow-color);
+  color: var(--main-yellow-color);
 }
 
 /* Tarot Card Image */
+
+#card-image {
+  height: 15.625rem;
+  width: auto;
+}
+
+/* Hidden Elements On Load */
 
 #card-image,
 #card-title,
@@ -116,25 +141,20 @@ button:hover {
   display: none;
 }
 
-#card-image {
-  height: 15.625rem;
-  width: auto;
-}
-
 /* Tablet Screens (540px Width and Up) */
 
-@media (min-width: 33.75rem) {
+@media (min-width: 33.75em) {
   #begin-reading-button {
-    background-color: #003944;
-    border-color: #d5b783;
-    color: #d5b783;
+    background-color: var(--main-blue-color);
+    border-color: var(--main-yellow-color);
+    color: var(--main-yellow-color);
   }
 
   #select-a-card-button,
   #select-another-card-button {
-    background-color: #d5b783;
-    border-color: #003944;
-    color: #003944;
+    background-color: var(--main-yellow-color);
+    border-color: var(--main-blue-color);
+    color: var(--main-blue-color);
   }
 
   header {
@@ -165,20 +185,20 @@ button:hover {
   }
 
   .box-1 {
-    background-color: #d5b783;
-    color: #003944;
+    background-color: var(--main-yellow-color);
+    color: var(--main-blue-color);
     opacity: 0.95;
   }
 
   .box-2 {
-    background-color: #003944;
-    color: #d5b783;
+    background-color: var(--main-blue-color);
+    color: var(--main-yellow-color);
   }
 }
 
 /* Larger Screens (800px Width and Up) */
 
-@media (min-width: 50rem) {
+@media (min-width: 50em) {
   .box {
     flex-basis: 50%;
   }

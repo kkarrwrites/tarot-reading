@@ -1,6 +1,6 @@
 # tarot-reading
 
-Tarot Reading is an HTML, CSS, and JavaScript responsive mobile first project that acts like a simple game that displays a one card tarot reading. [K. Karr](https://github.com/kkarrwrites/) created this project to practice HTML, CSS, and JavaScript. It is [K. Karr](https://github.com/kkarrwrites/)'s first web development portfolio project.
+Tarot Reading is an HTML, CSS, and JavaScript responsive mobile-first project that acts like a simple game that displays a one card tarot reading. [K. Karr](https://github.com/kkarrwrites/) created this project to practice HTML, CSS, and JavaScript. It is [K. Karr](https://github.com/kkarrwrites/)'s first web development portfolio project.
 
 ## Credits
 
