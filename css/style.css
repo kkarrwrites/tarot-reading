@@ -58,8 +58,8 @@ a:visited {
   text-decoration: none;
 }
 
-a:hover,
-a:active {
+footer a:hover,
+footer a:active {
   opacity: 0.8;
   text-decoration: underline;
 }
@@ -134,6 +134,7 @@ button:hover {
 
 /* Hidden Elements On Load */
 
+#begin-reading-button,
 #card-image,
 #card-title,
 #card-meaning,
@@ -145,6 +146,7 @@ button:hover {
 
 @media (min-width: 33.75em) {
   #begin-reading-button {
+    display: inline;
     background-color: var(--main-blue-color);
     border-color: var(--main-yellow-color);
     color: var(--main-yellow-color);
@@ -199,6 +201,10 @@ button:hover {
 /* Larger Screens (800px Width and Up) */
 
 @media (min-width: 50em) {
+  #begin-reading-button {
+    display: inline;
+  }
+
   .box {
     flex-basis: 50%;
   }
