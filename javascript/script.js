@@ -6,7 +6,7 @@ const tarotCards = [
     src: "resources/the_fool.jpg",
     title: "The Fool",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A young person stands at the edge of a precipice and surveys the world.",
     meaning:
       "Adventure, Beginnings, Exuberance, Idealism, Innocence, Journeys, Naïveté, Opposite of Strength",
   },
@@ -14,38 +14,35 @@ const tarotCards = [
     src: "resources/the_magician.jpg",
     title: "The Magician",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A young person in a robe raises a wand in his/her/their right hand toward sky and points his/her/their left hand toward the earth.",
     meaning: "Creation, Knowledge, Mediation, Opposite of The Hierophant",
   },
   {
     src: "resources/the_high_priestess.jpg",
     title: "The High Priestess",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A person with a lunar crescent at his/her/their feet, a horned diadem on his/her/their head, and a large solar cross on his/her/their chest sits on a throne.",
     meaning:
       "Intuition, Mediation, Objectivity, Spirituality, Feminine counterpart to The Hierophant, Opposite of Justice",
   },
   {
     src: "resources/the_empress.jpg",
     title: "The Empress",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A stately figure wearing a diadem sits on a throne.",
     meaning:
       "Abundance, Fertility, Motherhood, Nature, Nurture, Feminine counterpart to The Emperor",
   },
   {
     src: "resources/the_emperor.jpg",
     title: "The Emperor",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A stately figure wearing a crown sits on a throne.",
     meaning:
       "Authority, Fatherhood, Leadership, Stoicism, Strength, Masculine counterpart to The Empress",
   },
   {
     src: "resources/the_hierophant.jpg",
     title: "The Hierophant",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A stately figure sits on a throne.",
     meaning:
       "Beliefs, Conventionality, Education, Religion, Masculine counterpart to The High Priestess, Opposite of The Magician",
   },
@@ -53,73 +50,67 @@ const tarotCards = [
     src: "resources/the_lovers.jpg",
     title: "The Lovers",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "In the background, the sun shines above a great winged figure with arms extended. In the foreground, two humans, male and female, stand naked.",
     meaning: "Lovers, Partnership, Romance, Relationships, Union",
   },
   {
     src: "resources/the_chariot.jpg",
     title: "The Chariot",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..",
+    description: "A figure sits in a chariot.",
     meaning: "Ambition, Control, Determination, Discipline, Success, Willpower",
   },
   {
     src: "resources/strength.jpg",
     title: "Strength",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A person with the symbol for infinity over his/her/their head is closing the jaws of a lion.",
     meaning: "Confidence, Courage, Strength, Opposite of The Fool",
   },
   {
     src: "resources/the_hermit.jpg",
     title: "The Hermit",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A person wearing robes holds a lantern in one hand and a wand in the other.",
     meaning:
       "Contemplation, Solitude, Spiritual Attainment, Wisdom, Withdrawl, Opposite of The Moon",
   },
   {
     src: "resources/wheel_of_fortune.jpg",
     title: "Wheel of Fortune",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A compass-like wheel surrounded by sphinxes.",
     meaning: "Luck, Fortune, Opposite of The Hanged Man",
   },
   {
     src: "resources/justice.jpg",
     title: "Justice",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A person sitting on a throne holds a sword in one hand and scales in the other hand.",
     meaning: "Cause and Effect, Honesty, Justice, Law, Outcomes, Truth",
   },
   {
     src: "resources/the_hanged_man.jpg",
     title: "The Hanged Man",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A person hangs upside down from one leg.",
     meaning: "Martarydom, Sacrifice, Opposite of Wheel of Fortune",
   },
   {
     src: "resources/death.jpg",
     title: "Death",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A skeleton rides a horse.",
     meaning:
       "Beginnings, Change, Endings, Impermanence, Transition, Not a portent of death",
   },
   {
     src: "resources/temperance.jpg",
     title: "Temperance",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A winged angel stands in a meadow.",
     meaning:
       "Balance, Harmony, Middle Way, Moderation, Restraint, Opposite of The Devil",
   },
   {
     src: "resources/the_devil.jpg",
     title: "The Devil",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "The devil chains two humans by their necks.",
     meaning:
       "Addiction, Excess, Hedonism, Ignorance, Suffering, Opposite of Temperance",
   },
@@ -127,42 +118,38 @@ const tarotCards = [
     src: "resources/the_tower.jpg",
     title: "The Tower",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "Lightning strikes a tower, taking off the top of the tower and sending people falling.",
     meaning: "Chaos, Destruction, Disaster, Trauma, Turomoil",
   },
   {
     src: "resources/the_star.jpg",
     title: "The Star",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "A naked person pours water into a pool with a large star in the background.",
     meaning: "Healing, Rejuvenation, Renewal",
   },
   {
     src: "resources/the_moon.jpg",
     title: "The Moon",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "Two dogs howl at the moon..",
     meaning: "Duality, Intuition, Unconscious, Opposite of The Hermit",
   },
   {
     src: "resources/the_sun.jpg",
     title: "The Sun",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A naked child rides a horse with the sun in the background.",
     meaning: "Fulfillment, Happiness, Joy, Light, Success, Warmth",
   },
   {
     src: "resources/judgement.jpg",
     title: "Judgement",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "An angel in the sky blows a trumpet.",
     meaning: "Judgement, Reflection",
   },
   {
     src: "resources/the_world.jpg",
     title: "The World",
-    description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    description: "A figure floats in the center of a serpent eating its tail.",
     meaning: "Achievement, Completion, Fulfillment, Harmony",
   },
   {

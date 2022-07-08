@@ -8,9 +8,13 @@ html {
 }
 
 :root {
-  --main-blue-color: #003944; /* var(--main-blue-color) */
-  --main-yellow-color: #d5b783; /* var(--main-yellow-color) */
-  --secondary-yellow-color: #ffdb9d; /* var(--secondary-yellow-color) */
+  --main-blue-color: hsl(190, 100%, 13%); /* var(--main-blue-color) */
+  --main-yellow-color: hsl(38, 49%, 67%); /* var(--main-yellow-color) */
+  --secondary-yellow-color: hsl(
+    38,
+    100%,
+    81%
+  ); /* var(--secondary-yellow-color) */
 }
 
 *,
