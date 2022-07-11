@@ -12,16 +12,16 @@ I learned a variety of guidelines and rules throughout the coding of this projec
 
 Guidelines and rules I incorporated into this project included:
 
--✔️ Font colors should be in HSL.
--✔️ Font sizes should be in REMs.
--✔️ Media queries should be in EMs.
--✔️ Mobile-first primarily uses minimum widths in media queries.
+- ✔️ Font colors should be in HSL.
+- ✔️ Font sizes should be in REMs.
+- ✔️ Media queries should be in EMs.
+- ✔️ Mobile-first primarily uses minimum widths in media queries.
 
 Guidelines and rules I learned after completing this project and did not have the chance to incorporate included:
 
--❌ Classes should be used over IDs.
--❌ Header and Footer tags should be included inside the Body tag.
--❌ Objected-oriented programming (OOP) would have resulted in cleaner JavaScript code.
+- ❌ Classes should be used over IDs.
+- ❌ Header and Footer tags should be included inside the Body tag.
+- ❌ Objected-oriented programming (OOP) would have resulted in cleaner JavaScript code.
 
 ## Credits
 
