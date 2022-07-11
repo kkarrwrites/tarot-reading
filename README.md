@@ -8,16 +8,16 @@ It is [K. Karr](https://github.com/kkarrwrites/)'s first web development portfol
 
 ## Lessons Learned
 
-I learned a variety of guidelines and rules throughout the coding of this project.
+I learned a variety of guidelines and rules while coding this project.
 
 Guidelines and rules I incorporated into this project included:
 
 - ✔️ Font colors should be in HSL.
 - ✔️ Font sizes should be in REMs.
 - ✔️ Media queries should be in EMs.
-- ✔️ Mobile-first primarily uses minimum widths in media queries.
+- ✔️ Minimum widths are primarily used for mobile-first coding.
 
-Guidelines and rules I learned after completing this project and did not have the chance to incorporate included:
+Guidelines and rules I failed to incorporate into this project, but learned about afterward included:
 
 - ❌ Classes should be used over IDs.
 - ❌ Header and Footer tags should be included inside the Body tag.
