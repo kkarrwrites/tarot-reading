@@ -6,6 +6,23 @@ Tarot Reading is an HTML, CSS, and JavaScript responsive mobile-first project th
 
 It is [K. Karr](https://github.com/kkarrwrites/)'s first web development portfolio project.
 
+## Lessons Learned
+
+I learned a variety of guidelines and rules throughout the coding of this project.
+
+Guidelines and rules I incorporated into this project included:
+
+-✔️ Font colors should be in HSL.
+-✔️ Font sizes should be in REMs.
+-✔️ Media queries should be in EMs.
+-✔️ Mobile-first primarily uses minimum widths in media queries.
+
+Guidelines and rules I learned after completing this project and did not have the chance to incorporate included:
+
+-❌ Classes should be used over IDs.
+-❌ Header and Footer tags should be included inside the Body tag.
+-❌ Objected-oriented programming (OOP) would have resulted in cleaner JavaScript code.
+
 ## Credits
 
 Tarot Reading was designed and coded by [K. Karr](https://github.com/kkarrwrites/) in 2022.
