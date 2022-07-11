@@ -21,7 +21,6 @@ Guidelines and rules I failed to incorporate into this project, but learned abou
 
 - ❌ Classes should be used over IDs.
 - ❌ Header and Footer tags should be included inside the Body tag.
-- ❌ Objected-oriented programming (OOP) would have resulted in cleaner JavaScript code.
 
 ## Credits
 
