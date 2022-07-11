@@ -12,6 +12,7 @@ I learned a variety of guidelines and rules while coding this project.
 
 Guidelines and rules I incorporated into this project included:
 
+- ✔️ Defer should be included with the JavaScript link in the Head of the HTML document so that the loading of any JavaScript code will be deferred until after the HTML loads.
 - ✔️ Font colors should be in HSL.
 - ✔️ Font sizes should be in REMs.
 - ✔️ Media queries should be in EMs.
