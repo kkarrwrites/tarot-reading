@@ -8,20 +8,18 @@ It is [@kkarrwrites](https://github.com/kkarrwrites)'s first web development por
 
 ## Lessons Learned
 
-I learned a variety of HTML, CSS, and JavaScript guidelines and rules while coding this project.
+Lessons learned during implementation:
 
-Guidelines and rules I incorporated into this project included:
+- ✔️ Add **defer** to the **script src** attribute to place JavaScript link in the **Head** of an HTML page (HMTL and JavaScript).
+- ✔️ Write **colors** in **HSL** (CSS).
+- ✔️ Write **font sizes** in **REMs** (CSS).
+- ✔️ Write **media queries** in **EMs** (CSS).
+- ✔️ Minimum widths are primarily used in **mobile-first** coding (CSS).
 
-- ✔️ Add **defer** to the **script src** attribute to place JavaScript link in the **head** of an HTML page.
-- ✔️ Write CSS **colors** in **HSL**.
-- ✔️ Write CSS **font sizes** in **REMs**.
-- ✔️ Write CSS **media queries** in **EMs**.
-- ✔️ Minimum widths are primarily used for **mobile-first** CSS.
+Lessons learned after implementation:
 
-Guidelines and rules I failed to incorporate into this project, but learned about afterward included:
-
-- ❌ **Classes** should be used over **IDs**.
-- ❌ **Header** and **footer** tags should be included inside the **body** tag.
+- ❌ **Classes** should be used over **IDs** (CSS).
+- ❌ **Header** and **Footer** tags should be included inside the **Body** tag (HTML).
 
 ## Credits
 
