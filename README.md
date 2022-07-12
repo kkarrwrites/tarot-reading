@@ -2,30 +2,30 @@
 
 Tarot Reading is an HTML, CSS, and JavaScript responsive mobile-first project that acts like a simple game that displays a one card tarot reading.
 
-[K. Karr](https://github.com/kkarrwrites/) created this project to practice HTML, CSS, and JavaScript.
+@kkarrwrites created this project to practice HTML, CSS, and JavaScript.
 
-It is [K. Karr](https://github.com/kkarrwrites/)'s first web development portfolio project.
+It is @kkarrwrites's first web development portfolio project.
 
 ## Lessons Learned
 
-I learned a variety of guidelines and rules while coding this project.
+I learned a variety of HTML, CSS, and JavaScript guidelines and rules while coding this project.
 
 Guidelines and rules I incorporated into this project included:
 
-- ✔️ Defer should be included with the JavaScript link in the Head of the HTML document so that the loading of any JavaScript code will be deferred until after the HTML loads.
-- ✔️ Font colors should be in HSL.
-- ✔️ Font sizes should be in REMs.
-- ✔️ Media queries should be in EMs.
-- ✔️ Minimum widths are primarily used for mobile-first coding.
+- ✔️ Add **defer** to the **script src** attribute to place JavaScript link in the **head** of an HTML page.
+- ✔️ Write CSS **colors** in **HSL**.
+- ✔️ Write CSS **font sizes** in **REMs**.
+- ✔️ Write CSS **media queries** in **EMs**.
+- ✔️ Minimum widths are primarily used for **mobile-first** CSS.
 
 Guidelines and rules I failed to incorporate into this project, but learned about afterward included:
 
-- ❌ Classes should be used over IDs.
-- ❌ Header and Footer tags should be included inside the Body tag.
+- ❌ **Classes** should be used over **IDs**.
+- ❌ **Header** and **footer** tags should be included inside the **body** tag.
 
 ## Credits
 
-Tarot Reading was designed and coded by [K. Karr](https://github.com/kkarrwrites/) in 2022.
+Tarot Reading was designed and coded by @kkarrwrites in 2022.
 
 The [Tarot Vector Background](https://www.freepik.com/free-vector/hand-drawn-mystical-background_18493566.htm) header image was created by [colorvector](https://www.freepik.com/author/coolvector) and is available on [Freepik](https://www.freepik.com).
 
