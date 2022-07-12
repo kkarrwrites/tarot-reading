@@ -2,9 +2,9 @@
 
 Tarot Reading is an HTML, CSS, and JavaScript responsive mobile-first project that acts like a simple game that displays a one card tarot reading.
 
-@kkarrwrites created this project to practice HTML, CSS, and JavaScript.
+[@kkarrwrites](https://github.com/kkarrwrites) created this project to practice HTML, CSS, and JavaScript.
 
-It is @kkarrwrites's first web development portfolio project.
+It is [@kkarrwrites](https://github.com/kkarrwrites)'s first web development portfolio project.
 
 ## Lessons Learned
 
@@ -25,7 +25,7 @@ Guidelines and rules I failed to incorporate into this project, but learned abou
 
 ## Credits
 
-Tarot Reading was designed and coded by @kkarrwrites in 2022.
+Tarot Reading was designed and coded by [@kkarrwrites](https://github.com/kkarrwrites) in 2022.
 
 The [Tarot Vector Background](https://www.freepik.com/free-vector/hand-drawn-mystical-background_18493566.htm) header image was created by [colorvector](https://www.freepik.com/author/coolvector) and is available on [Freepik](https://www.freepik.com).
 
