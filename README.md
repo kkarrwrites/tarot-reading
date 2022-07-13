@@ -15,11 +15,12 @@ Lessons learned during implementation:
 - ✔️ Write **font sizes** in **REMs** (CSS).
 - ✔️ Write **media queries** in **EMs** (CSS).
 - ✔️ Minimum widths are primarily used in **mobile-first** coding (CSS).
+- ✔️ **Footer** tags should be included inside the **Body** tag (HTML).
 
 Lessons learned after implementation:
 
 - ❌ **Classes** should be used over **IDs** (CSS).
-- ❌ **Header** and **Footer** tags should be included inside the **Body** tag (HTML).
+- ❌ I cannot figure out why there is **white space** below the **Footer** when viewing in mobile.
 
 ## Credits
 
