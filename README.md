@@ -20,7 +20,10 @@ Lessons learned during implementation:
 Lessons learned after implementation:
 
 - ❌ **Classes** should be used over **IDs** (CSS).
-- ❌ I cannot figure out why there is **white space** below the **Footer** when viewing in mobile.
+
+Unsolved mysteries:
+
+- ❓ I cannot figure out why there is **white space** below the **Footer** when viewing in mobile.
 
 ## Credits
 
